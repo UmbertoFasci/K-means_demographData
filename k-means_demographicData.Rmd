@@ -1,7 +1,6 @@
 ---
 title: "Employment and Demographics"
 author: "Umberto Fasci"
-source: "Julia Silge"
 date: '`r Sys.Date()`'
 output: github_document
 ---
