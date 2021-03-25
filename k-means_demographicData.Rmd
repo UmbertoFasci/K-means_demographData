@@ -61,7 +61,7 @@ employment_demo
 
 
 
-## Implement k-means clustering
+## Implement k-means clusterings
 
 ```{r}
 employment_clust <- kmeans(select(employment_demo, -occupation), centers = 3)
